@@ -52,7 +52,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/your-username/Queue_Check.git
+    git clone https://github.com/PraveenAladakatti/Queue_Check
     ```
 
 2.  **Navigate to the project directory:**
@@ -80,4 +80,5 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 6.  **Launch the frontend:**
     Open the `index.html` or `login.html` file in your web browser to start using the application.
+
 

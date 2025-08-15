@@ -19,7 +19,7 @@ app.use('/api/auth', authRoutes);
 
 app.use('/api/shop', shopRoutes);
 // MongoDB connection
-mongoose.connect('mongodb://localhost:27017/queue_check', {
+mongoose.connect('#add your mongoDB link', {
     useNewUrlParser: true,
     useUnifiedTopology: true,
 })
